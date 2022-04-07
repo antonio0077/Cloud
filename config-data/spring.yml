@@ -1,6 +1,8 @@
 server:  
- port: 8099spring:  
-application:    
-name: spring
+ port: 8099
+
+spring: 
+ application:    
+  name: spring
 
 
