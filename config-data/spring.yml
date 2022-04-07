@@ -1,8 +1,6 @@
-server:  
- port: 8099
-
-spring: 
- application:    
-  name: demoCloud
-
-
+server:
+    port:8099
+    
+spring:
+    application:
+    name: spring
